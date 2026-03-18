@@ -35,10 +35,10 @@ Still early in my career, but hungry to grow fast.
 
 > Currently building in public. More coming soon.
 
-### 📊 [Data-Analytics](https://github.com/ignacioaracena/Data-Analytics)
+### 📊 [Data-Analytics](https://github.com/ignacio-aracena/Data-Analytics)
 Case studies and assignments from the Data Analytics course at UdeSA — EDA, KPI design, data visualization, and business storytelling using Pandas, Matplotlib, Seaborn, and Plotly. Every notebook connects technical analysis to a real business problem.
 
-### 🤖 [Data-Science](https://github.com/ignacioaracena/Data-Science)
+### 🤖 [Data-Science](https://github.com/ignacio-aracena/Data-Science)
 ML projects from the Data Science course at UdeSA — supervised (Regression, Classification) and unsupervised (Clustering, PCA) models, feature engineering, and evaluation using Scikit-learn, Pandas, and NumPy. Focus on applying the right algorithm to the right problem.
 
 ---
@@ -64,6 +64,7 @@ ML projects from the Data Science course at UdeSA — supervised (Regression, Cl
 | Azure Fundamentals (AZ-900) | Microsoft |
 | Cloud Practitioner | AWS |
 | Data Science Professional | IBM |
+| Data Analyst Professional | IBM |
 | Data Engineering Professional | IBM |
 | C1 Advanced (CAE) | Cambridge |
 
